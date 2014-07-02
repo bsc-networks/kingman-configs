@@ -1,3 +1,3 @@
 # Kingman Hall Network Configuration
 
-Store here are exports of the house router and switch configurations.
+Stored here are exports of Kingman Hall's router and switch configurations.
